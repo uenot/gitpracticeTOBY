@@ -1,7 +1,7 @@
 # Partner 1: Toby Ueno
 # Partner 2: Justin Dao
 ########################
-# Assignment Name: GitHub Practice
+# Assignment Name: GitHub Practice - Date: 2/25/20
 
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
