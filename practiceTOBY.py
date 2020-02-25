@@ -1,5 +1,5 @@
-# Partner 1: Toby
-# Partner 2: Justin
+# Partner 1: Toby Ueno
+# Partner 2: Justin Dao
 ########################
 
 def getNRandom(n):
